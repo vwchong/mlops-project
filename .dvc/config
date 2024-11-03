@@ -1,0 +1,4 @@
+[core]
+    autostage = true
+['remote "main"']
+    url = https://dagshub.com/vwchong/my-first-repo.dvc
